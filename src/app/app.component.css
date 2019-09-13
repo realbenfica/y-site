@@ -4,8 +4,9 @@
   display: flex;
 }
 
-img {
-  width: 55%;
+h1 {
+  font-size: 12rem;
+  font-weight: bold;
 }
 
 .under-construction {
