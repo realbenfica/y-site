@@ -1,0 +1,19 @@
+.logo {
+  justify-content: space-around;
+  flex-direction: row;
+  display: flex;
+}
+
+img {
+  width: 55%;
+}
+
+.under-construction {
+  font-weight: 300;
+  font-size: 1rem;
+  margin: 0 !important;
+}
+
+p {
+  margin: 0;
+}
